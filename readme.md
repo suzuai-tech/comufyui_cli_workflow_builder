@@ -9,7 +9,7 @@
 2. 必要モデル/カスタムノードを ComfyUI 側に配置する
 3. 必要なら環境変数で接続先を設定する
 
-- `COMFYUI_HOST`（既定: `192.168.10.35`）
+- `COMFYUI_HOST`
 - `COMFYUI_PORT`（既定: `8188`）
 - `COMFYUI_API_URL`（未指定時は host/port から自動生成）
 
