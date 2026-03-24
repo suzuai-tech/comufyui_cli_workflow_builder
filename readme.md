@@ -1,6 +1,7 @@
 # ComfyUI CLI Workflow Builder 使い方
 
-このツールは、ComfyUI のワークフローを使って CLI から画像/動画を生成するためのものです。
+このツールは、ComfyUI のワークフローを使って CLI から画像/動画を生成するコアツールです。
+詳細はhttps://night-dev.com/blog/comfy-ui-cli-prompt/で紹介しています。
 
 ## 1. 事前準備
 
