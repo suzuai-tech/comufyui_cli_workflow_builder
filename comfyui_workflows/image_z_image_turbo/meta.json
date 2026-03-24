@@ -1,0 +1,14 @@
+{
+  "name": "image_z_image_turbo",
+  "description": "",
+  "output_type": "image",
+  "output_format": "png",
+  "positive_node_id": "57:27",
+  "negative_node_id": null,
+  "positive_field": "text",
+  "negative_field": "text",
+  "param_map": {},
+  "tags": [
+    "converted"
+  ]
+}
